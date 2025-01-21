@@ -1,0 +1,229 @@
+body {
+    background-image: url(img1.png);
+    background-size: contain;
+}
+
+
+#h1first {
+    color: darkseagreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    line-height: 2em;
+    border: 3px solid darkseagreen;
+    border-radius: 5px;
+    padding: 15PX;
+    margin: 10PX;
+}
+
+.firsth1 {
+    background-color: linen;
+    font-size: 10px;
+}
+
+#p1 {
+
+    color: blueviolet;
+    background-color: azure;
+    padding-left: 10px;
+    margin-left: 7px;
+    font-family: Hoefler Text, Baskerville Old Face, Garamond, Times New Roman, serif;
+    font-size: 20px;
+    line-height: 2.5em;
+    border-radius: 7px;
+}
+
+#a1 {
+    color: white;
+    border: 2px;
+    border-color: white;
+    border-radius: 5px;
+    background-color: black;
+    padding: 5px;
+    margin: 10px;
+}
+
+#h5 {
+    color: lightgoldenrodyellow;
+    background-color: sienna;
+    font-family: Helvetica-Neue;
+    font-size: medium;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    border: solid cornsilk;
+
+}
+
+#students1 {
+    color: black;
+    border: 4px solid;
+    border-color: chocolate;
+    background-color: oldlace;
+
+}
+
+
+#thirdh1 {
+    color: darkseagreen;
+    background-color: linen;
+    font-size: 35px;
+    line-height: 2em;
+    border: 3px solid darkseagreen;
+    border-radius: 5px;
+    padding: 15PX;
+    margin: 10PX;
+    margin-left: 55PX;
+}
+
+#secondh1 {
+    color: darkseagreen;
+    background-color: linen;
+    line-height: 2em;
+    border: 3px solid darkseagreen;
+    border-radius: 5px;
+    padding: 20PX;
+    margin: auto;
+    width: 475px;
+    margin-left: 1425PX;
+}
+
+#lists1 {
+    color: darkolivegreen;
+    margin: auto;
+    width: 550px;
+    margin-left: 1400PX;
+
+}
+
+#table1 {
+    color: brown;
+    border-color: chocolate;
+    background-color: oldlace;
+    border: 2px solid darkred;
+    border-color: brown;
+    border-radius: 5px;
+    padding: 30PX;
+    margin: 25PX;
+
+}
+
+
+.td1 {
+    color: brown;
+}
+
+#fourthh1 {
+    color: darkseagreen;
+    background-color: linen;
+    font-size: 35px;
+    line-height: 2em;
+    border: 3px solid darkseagreen;
+    border-radius: 5px;
+    padding: 15PX;
+    margin: 20px;
+    width: 455px;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'ubuntu', sans-serif;
+}
+
+
+.container {
+    width: 900px;
+    border: 3px solid tan;
+    margin: 33px auto;
+    background-color: burlywood;
+    border-radius: 6px;
+
+}
+
+.description {
+    background-color: blanchedalmond;
+    border: 3px solid tan;
+    margin: 12px 3px;
+    padding: 12px 3px;
+
+}
+
+#a3 {
+    text-decoration: none;
+    color: white;
+}
+
+#a3:hover {
+    color: black;
+    background-color: brown;
+}
+
+#a3:visited {
+    background-color: brown;
+}
+
+#a3:active {
+    background-color: brown;
+}
+
+.btn {
+    background-color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding: 6px;
+    border: none;
+    cursor: pointer;
+    font-size: 13px;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    color: black;
+    background-color: brown;
+}
+
+.navbar {
+    background-color: sienna;
+    border-radius: 5px;
+}
+
+.navbar ul {
+    overflow: auto;
+
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    padding: 3px 3px;
+    margin: 13px 20px;
+}
+
+.navbar li a {
+    padding: 3px 3px;
+    text-decoration: none;
+    color: lightgoldenrodyellow;
+
+}
+
+.navbar li a:hover {
+    color: white;
+
+}
+
+.search {
+    float: right;
+    color: white;
+    padding: 12px 75px;
+
+}
+
+.navbar input {
+    border: 2px solid rgb(5, 4, 4);
+    border-radius: 4px;
+    padding: 3px 17px;
+    width: 129px;
+}
